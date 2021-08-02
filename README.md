@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @xaes117
 - 👀 I’m interested in biology and computer tech
 - 🌱 I’m currently learning a lot of different things
-- 💞️ I’m looking to collaborate on anything interesting
+- 💞️ I’m looking to collaborate on protein simulation/deep learning
 - 📫 How to reach me xaes@pm.me
 
 <!---
