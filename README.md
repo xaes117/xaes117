@@ -2,6 +2,6 @@
 
 ### ✨ Let's Build Something Amazing
 
-*Open to collaborations and interesting challenges*
+*Open to collaborations and interesting challenges!*
 
 </div>
